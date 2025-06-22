@@ -34,7 +34,6 @@
 | Project Name | Description |
 |--------------|-------------|
 | **🩺 MedVault** | A secure web app to manage medical records, prescriptions, and vaccinations. |
-| **🎯 HTML/CSS UI Clones** | Recreated Instagram and YouTube homepages using only HTML and CSS. |
 
 ---
 
