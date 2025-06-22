@@ -68,5 +68,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Himanshu-codeer&show_icons=true&theme=radical" alt="Himanshu's GitHub stats" />
+  
 </p>
